@@ -14,21 +14,18 @@ Every year five authors would be awarded with an annual medium membership. This 
 
 * Write an article that you want to read. 
 * Have a short title, and a longer subtitle. 
-•	It should be no more than ¼ of the length of the original research. 
-•	It can’t be longer than 5 minutes of reading. 
-•	Use the appropriate tags for readers to find you. 
-•	There has to be an element of interactiveness. 
-•	No mathematical formulae allowed; some exceptions can be made.
-•	Equations should be in pseudo-code format if any. 
-•	This is a visual medium and should be treated as such. 
-•	Have your work read over by a professional proofreader. 
-•	Write approachably somewhere between an business magazine article and a journal paper.  
-•	Make use of visualisations and even interactive visualisations where appropriate.
-•	Your conclusion should be to the point and not promotional. 
-•	APA 6th referencing style is expected from all contributors.  
-•	Present the necessary code as embedded GitHub gists. 
-•	We do not allow ads or sponsored content.
-•	You should only add up to two social media links. 
+* It should be no more than ¼ of the length of an original research article. 
+* Use the appropriate tags for readers to find you. 
+* There has to be an element of interactiveness. 
+* Mathematical allowed for instructive purposes. 
+* This is a visual medium and should be treated as such. 
+* Have your work read over by a professional proofreader. 
+* Write approachably somewhere between an business magazine and a journal paper.  
+* Your conclusion should be to the point and not promotional. 
+* APA 6th referencing style is expected from all contributors.  
+* Present the necessary code as embedded GitHub gists. 
+* We do not allow ads or sponsored content.
+* You should only add up to two social media links. 
 
 ### Submission Rules
 
