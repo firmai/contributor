@@ -1,3 +1,6 @@
+# FirmAI
+## Leading Research for AI in Business
+
 ### Becoming a Contributor
 
 FirmAI seeks to get academic research and models into the mainstream. Two platforms targeted for this purpose are GitHub and Medium. FirmAI’s authors are selected based on the quality of their research they produce and their expertise in an area of interest. The project is funded through GitHub and other sponsorships. 
