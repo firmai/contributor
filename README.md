@@ -39,3 +39,6 @@ Before submitting your article, there are a few essential things you need to kno
 6.	We might directly edit your content to correct basic spelling mistakes and update minimal formatting. With any other form of editing we will make contact with you first. Also, we might remove images where the source isn’t clearly stated. Copyright violation is a real thing and could happen to you. It is your responsibility to ensure you own or have a legal right to use, all content, images, and videos you include in your articles.
 7.	We can remove any articles you post on FirmAI for any reason. If we do so, your content will not be lost but still hosted on Medium.com and redirected there.
 8.	If our editorial team finds one or more violations of our rules, we can remove you and all of your articles from our publication and report them to Medium.
+
+If you feel, your work alligns with the publication, get in touch by opening an issue on the top left corner or by emailing, d.snow (at) firmai (dot) org 
+
