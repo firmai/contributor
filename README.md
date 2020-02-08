@@ -12,8 +12,8 @@ Every year five authors would be awarded with an annual medium membership. This 
 
 ### Submission Guidelines
 
-•	Write an article that you want to read. 
-•	Have a short title, and a longer subtitle. 
+* Write an article that you want to read. 
+* Have a short title, and a longer subtitle. 
 •	It should be no more than ¼ of the length of the original research. 
 •	It can’t be longer than 5 minutes of reading. 
 •	Use the appropriate tags for readers to find you. 
