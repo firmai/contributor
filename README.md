@@ -47,5 +47,5 @@ If you feel, your work alligns with the publication, get in touch by opening an 
 
 Viewership success varies based on topic, length, and title. Within the first month you will get about 30% of your over annual views. 
 
-[!](https://raw.githubusercontent.com/firmai/contributor/master/image/STATS.PNG)
+!["Viewership"](https://raw.githubusercontent.com/firmai/contributor/master/image/STATS.PNG)
 
