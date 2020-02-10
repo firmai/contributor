@@ -45,7 +45,7 @@ Before submitting your article, there are a few essential things you need to kno
 
 If you feel, your work alligns with the publication, get in touch by opening an issue on the top left corner or by emailing, d.snow (at) firmai (dot) org 
 
-Viewership success varies based on topic, length, and title. Within the first month you will get about 30% of your over annual views. 
+Viewership success varies based on topic, length, and title and social media posts. Within the first month you will get about 30% of your over annual views. Example 1A is 1 week old, Example 3B is one month old, Example 2A is six months old. 
 
 !["Viewership"](https://raw.githubusercontent.com/firmai/contributor/master/image/STATS.PNG)
 
