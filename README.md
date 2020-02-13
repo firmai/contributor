@@ -20,6 +20,7 @@ Every year five authors would be awarded with an annual medium membership. This 
 * It should be no more than ¼ of the length of an original research article. 
 * Use the appropriate tags for readers to find you. 
 * There has to be an element of interactiveness. 
+* We propose and article length 2,500 to 5,500 words (8-20 minutes)
 * Mathematical allowed for instructive purposes. 
 * This is a visual medium and should be treated as such. 
 * Have your work read over by a professional proofreader. 
