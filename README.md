@@ -36,7 +36,7 @@ Every year five authors would be awarded with an annual medium membership. This 
 Before submitting your article, there are a few essential things you need to know. Make sure you read each point well, and that you understand them, as by submitting an article to FirmAI, you are agreeing to comply with all of them.
 
 1.	Medium’s Rules and Terms of Service apply to FirmAI as it is a Medium publication. Make sure you read it before submitting your article.
-2.	As explained in Medium’s Terms of Service, you own the rights to the content you create and post on Medium and therefore FirmAI. You’re also responsible for the content you post. This means you assume all risks related to it, including someone else’s reliance on its accuracy, or claims relating to intellectual property or other legal rights.
+2.	As explained in [Medium’s Terms of Service](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f), you own the rights to the content you create and post on Medium and therefore FirmAI. You’re also responsible for the content you post. This means you assume all risks related to it, including someone else’s reliance on its accuracy, or claims relating to intellectual property or other legal rights.
 3.	We have adopted Medium’s Content Guidelines and Medium’s Curation Guidelines for every article we publish. This means that if your post isn’t of a high enough quality to be curated or doesn’t follow the guidelines, we won’t publish it on FirmAI regardless of how much time you have spent. 
 4.	You can edit and remove your article from our publication at any time.
 5.	We verify unsupported claims and attempt to detect plagiarism. 
