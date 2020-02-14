@@ -8,7 +8,7 @@
 |21|18|19|20|21|22|23|24|
 |22|25|26|27|28|29|30|31|
 
-**Week 18**
+**Week 18** (Full)
 * 4: Forster Provost - Instance-level explanations
 * 5: Dokyun Lee - XAI in Business
 * 6: Vasant Dhar - Trust in Autonomous Learning Systems
