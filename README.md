@@ -5,6 +5,14 @@
 
 [See the calendar](https://github.com/firmai/contributor/blob/master/calendar.md) for submissions and topics, get in touch if you would prefer to get your article released on another date. 
 
+Example:
+
+**Week 18** (Full)
+* 4: Forster Provost - Instance-level explanations
+* 5: Dokyun Lee - XAI in Business
+* 6: Vasant Dhar - Trust in Autonomous Learning Systems
+* 7: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
+
 ### Becoming a Contributor
 
 FirmAI seeks to get academic research and models into the mainstream. Two platforms targeted for this purpose are GitHub and Medium. FirmAI’s authors are selected based on the quality of their research they produce, their expertise in an area of interest, and their previous involvement in open source projects. The publication is add-free and entirely funded through GitHub and other grassroot sponsorships. Every year five authors would be awarded with an annual medium membership.
