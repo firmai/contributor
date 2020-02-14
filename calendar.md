@@ -11,12 +11,14 @@
 **Week 18** (Full)
 * 4: Forster Provost - Instance-level explanations
 * 5: Dokyun Lee - XAI in Business
-* 6: Vasant Dhar - Trust in Autonomous Learning Systems
-* 7: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
+* 6: Cris Doloc - Computational Intelligence in Data-Driven Trading
+* 7: Harriet Rees - Price Optimisation
 
 **Week 19**
-* 11: Cris Doloc - Computational Intelligence in Data-Driven Trading
-* 12: Victor Storchan - Robust OCR Solutions
+* 11: Hanan Hindy - Infrastructure and Security
+* 12: Vasant Dhar - Trust in Autonomous Learning Systems 
+* 13: Victor Storchan - Robust OCR Solutions
+* 14: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
 
 2020/6
 
