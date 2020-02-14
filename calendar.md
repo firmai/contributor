@@ -8,10 +8,15 @@
 |21|18|19|20|21|22|23|24|
 |22|25|26|27|28|29|30|31|
 
+**Week 18**
 * 4: Forster Provost - Instance-level explanations
 * 5: Dokyun Lee - XAI in Business
 * 6: Vasant Dhar - Trust in Autonomous Learning Systems
 * 7: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
+
+**Week 19**
+* 11: Cris Doloc - Computational Intelligence in Data-Driven Trading
+* 12: Victor Storchan - Robust OCR Solutions
 
 2020/6
 
