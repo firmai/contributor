@@ -8,6 +8,11 @@
 |21|18|19|20|21|22|23|24|
 |22|25|26|27|28|29|30|31|
 
+* 4: Forster Provost - Instance-level explanations
+* 5: Dokyun Lee - XAI in Business
+* 6: Vasant Dhar - Trust in Autonomous Learning Systems
+* 7: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
+
 2020/6
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
