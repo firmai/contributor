@@ -9,7 +9,7 @@
 |22|25|26|27|28|29|30|31|
 
 **Week 18** (Full)
-* 4: Forster Provost - Instance-level explanations
+* 4: Foster Provost - Instance-level explanations
 * 5: Dokyun Lee - XAI in Business
 * 6: Cris Doloc - Computational Intelligence in Data-Driven Trading
 * 7: Harriet Rees - Price Optimisation
