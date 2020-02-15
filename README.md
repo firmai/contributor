@@ -5,6 +5,7 @@
 
 1. [Writing Tips](https://medium.com/@derek_snow/example-3c-short-format-writing-tools-b08efff7f277)
 2. [Quality Post Examples](https://medium.com/@derek_snow/quality-post-examples-f52a887ecb35)
+3. Send any article format to student (at) firmai (dot) org for free styling. 
 
 ### Calendar
 
