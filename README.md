@@ -1,23 +1,15 @@
 # FirmAI
 ## Leading Research for AI in Business
 
-### Tips
-
-1. [Writing Tips](https://medium.com/@derek_snow/example-3c-short-format-writing-tools-b08efff7f277)
-2. [Quality Post Examples](https://medium.com/@derek_snow/quality-post-examples-f52a887ecb35)
-3. Send any article format to student (at) firmai (dot) org for free styling and conversion. 
-
 ### Calendar
 
 [See the calendar](https://github.com/firmai/contributor/blob/master/calendar.md) for submissions and topics, get in touch if you would prefer to get your article released on another date. 
 
-Example:
+### Tips
 
-**Week 18** (Full)
-* 4: Foster Provost - Instance-level explanations
-* 5: Dokyun Lee - XAI in Business
-* 6: Vasant Dhar - Trust in Autonomous Learning Systems
-* 7: Logan O'Malley - Finds, classify, and evaluate a universe of 1.4 million companies.
+1. [Writing Tips](https://medium.com/@derek_snow/example-3c-short-format-writing-tools-b08efff7f277)
+2. [Quality Post Examples](https://medium.com/@derek_snow/quality-post-examples-f52a887ecb35)
+3. Send any article format to [student@firmai.org](student@firmai.org) for free styling and conversion from word or pdf. 
 
 ### Becoming a Contributor
 
