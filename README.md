@@ -27,7 +27,7 @@ Every year five authors would be awarded with an annual medium membership. This 
 
 * Write an article that you want to read. 
 * Have a short title, and a longer subtitle. 
-* It should be no more than ¼ of the length of an original research article. 
+* It should be no more than 1/2 of the length of an original research article. 
 * Use the appropriate tags for readers to find you. 
 * There has to be an element of interactiveness. 
 * We propose an article length of 2,500 to 5,500 words (8-20 minutes)
