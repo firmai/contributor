@@ -9,7 +9,7 @@
 
 1. [Writing Tips](https://medium.com/@derek_snow/example-3c-short-format-writing-tools-b08efff7f277)
 2. [Quality Post Examples](https://medium.com/@derek_snow/quality-post-examples-f52a887ecb35)
-3. Send any article format to [student@firmai.org](student@firmai.org) for free styling and conversion from word or pdf. 
+3. Send any article format to [student@firmai.org](student@firmai.org) for free styling and conversion. 
 
 ### Becoming a Contributor
 
