@@ -13,7 +13,7 @@ See the [calendar](https://github.com/firmai/contributor/blob/master/calendar.md
 
 ### Becoming a Contributor
 
-FirmAI seeks to get academic research and models into the mainstream. Two platforms targeted for this purpose are GitHub and Medium. FirmAI’s authors are selected based on the quality of their research they produce, their expertise in an area of interest, and their previous involvement in open source projects. The publication is add-free and entirely funded through GitHub and other grassroot sponsorships. Every year five authors would be awarded with an annual medium membership.
+FirmAI seeks to get academic and industry research and opinions into the mainstream. Two platforms targeted for this purpose are GitHub and Medium. FirmAI’s authors are selected based on the quality of their research they produce, their expertise in an area of interest, and their previous involvement in open source projects. The publication is add-free and entirely funded through GitHub and other grassroot sponsorships. Every year five authors would be awarded with an annual medium membership.
 
 The FirmAI publication aims to produce high quality slow streaming content. Authors are individually approached based on their publication record and the interest factor of their work. The publication would be an original publication looking at practical and useful applications and theories from academia and industry. We are looking for the best researchers to propose up-to-date content, focused on the intersection of computer science, data science, machine learning, artificial intelligence and ethics with business.
 
